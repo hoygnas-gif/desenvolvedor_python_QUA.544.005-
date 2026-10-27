@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Hoygna Souza",
+        "email": "hoygna@gmail.com",
+        "telefone": "61982889482",
+        "cpf": "111.111.111-11"
+    },
+    {
+        "nome": "Jose Edilson De Araujo",
+        "email": "jose@gmail.com",
+        "telefone": "61982369080",
+        "cpf": "222.222.222-22"
+    },
+    {
+        "nome": "Ingrid Maria",
+        "email": "ingrid@gmail.com",
+        "telefone": "61982369080",
+        "cpf": "333.333.333-33"
+    },
+    {
+        "nome": "João Paulo",
+        "email": "joao@gmail.com",
+        "telefone": "61982996536",
+        "cpf": "444.444.444-44"
+    }
+]
